@@ -13,7 +13,7 @@ using namespace cv;
 const char* keys =
 {
 	"{help h usage ? | | print this message}"
-    "{@video | test.mp4 | Video file, if not defined try to use webcamera}"
+    "{@video | | Video file, if not defined try to use webcamera}"
 };
 
 int main( int argc, const char** argv )
